@@ -57,57 +57,117 @@ Description: Updating SLA Plan to "Sev-A" based on impact.
 Description: Updating Help Topic to "Busniess Critical Outage".
 </p>
 <br />
+<img width="2644" height="1386" alt="image" src="https://github.com/user-attachments/assets/0e04d557-1120-4f85-9c8c-02359d75f2bb" />
+</p>
+<p>
+Description: Assigning ticket to "Online Banking" team.
+</p>
+<br />
+<img width="2592" height="1426" alt="image" src="https://github.com/user-attachments/assets/8ca5ed2d-146b-48ac-b7bc-b15df2815b3c" />
+</p>
+<p>
+Description: Logging in as Jane and assigning the ticket to herself. 
+</p>
+<br />
+<img width="2644" height="1642" alt="image" src="https://github.com/user-attachments/assets/c7932770-154f-4b5f-8744-4fd9e05a7d88" />
+</p>
+<p>
+Description: Updating the ticket.
+</p>
+<br />
+<img width="2664" height="1658" alt="image" src="https://github.com/user-attachments/assets/6083d3b9-ffcb-4092-bab7-1693122c50f9" />
+</p>
+<p>
+<img width="2068" height="1006" alt="image" src="https://github.com/user-attachments/assets/d997baf0-8530-44fe-a041-52d7ceebce09" />
+</p>
+<p>
+Description: Final Update and resolving the ticket.
+</p>
+<br />
 
 <h2>Ticket Example #2</h2>
 <p>
-<img width="2928" height="1826" alt="image" src="https://github.com/user-attachments/assets/1949847d-521b-4bf3-ac37-7c68a563e3de" />
+<img width="2604" height="1644" alt="image" src="https://github.com/user-attachments/assets/c8eb2234-435c-4280-aab3-6e3af469e154" />
 </p>
 <p>
-Description: Enabling IIS with CGI in Windows Server Manager.
-</p>
-<br />
-<p>
-<img width="2420" height="1366" alt="image" src="https://github.com/user-attachments/assets/c393358e-9b04-48f5-8389-658ca9018b3c" />
-</p>
-<p>
-Description: Installing PHP Manager for IIS.
+Description: Creating a real-life example ticket as an end-user (customer), Ken.
 </p>
 <br />
-<p>
-<img width="2454" height="1332" alt="image" src="https://github.com/user-attachments/assets/98f93031-a532-4a7f-90f7-bd371fe8e312" />
+<img width="2690" height="1442" alt="image" src="https://github.com/user-attachments/assets/bf650682-4e50-4e7d-9f73-825859f0f02b" />
 </p>
 <p>
-Description: Installing IIS Rewrite Module.
+<img width="2612" height="1648" alt="image" src="https://github.com/user-attachments/assets/b73bf5e9-5c30-4b04-b24f-cfbcb5f13426" />
+</p>
+<p>
+Description: Logging into the Admin Panel as John and going over the ticket created by Ken.
 </p>
 <br />
-<p>
-<img width="2350" height="1358" alt="image" src="https://github.com/user-attachments/assets/86792e07-15ef-447a-af90-927263e0779b" />
+<img width="2560" height="1540" alt="image" src="https://github.com/user-attachments/assets/f8c950fd-2d0a-4f0f-b428-de8fc76eece3" />
 </p>
 <p>
-Description: Installing VC_redist.x86.exe.
+Description: Updating SLA Plan to "Sev-C" based on impact.
+</p>
+<br />
+<img width="2624" height="1382" alt="image" src="https://github.com/user-attachments/assets/f228ff10-1379-4db0-a82c-0ea94e1f739e" />
+</p>
+<p>
+Description: Assigning ticket as John to John himself.
+</p>
+<br />
+<img width="2706" height="1640" alt="image" src="https://github.com/user-attachments/assets/57b6ac31-23ac-4f21-97e0-70cc8b02eafd" />
+</p>
+<p>
+Description: Updating the ticket.
+</p>
+<br />
+<img width="2662" height="1670" alt="image" src="https://github.com/user-attachments/assets/2dfffe15-a715-4cfd-98fd-5cf5e28c58ab" />
+</p>
+<p>
+<img width="2730" height="1488" alt="image" src="https://github.com/user-attachments/assets/7cbda96b-c261-42a5-8f48-4cdb10bb98a6" />
+</p>
+<p>
+Description: Final Update and resolving the ticket.
 </p>
 <br />
 
 <h2>Ticket Example #3</h2>
 <p>
-<img width="2436" height="1372" alt="image" src="https://github.com/user-attachments/assets/b1d16a99-0023-4be4-a816-ad361f374c9d" />
+<img width="2616" height="1672" alt="image" src="https://github.com/user-attachments/assets/abfb4018-f661-4fbb-9a1e-305abe3511dc" />
 </p>
 <p>
-Description: Installing MySQL 5.5.62.
-</p>
-<br />
-<p>
-<img width="2386" height="1346" alt="image" src="https://github.com/user-attachments/assets/2c0d2159-d623-4d20-93c0-83118789dad3" />
-</p>
-<p>
-Description: Installing HeidiSQL.
+Description: Creating a real-life example ticket as an end-user (customer), Karen.
 </p>
 <br />
-<p>
-<img width="2374" height="1320" alt="image" src="https://github.com/user-attachments/assets/a4e8c178-bcb2-4c17-a9ab-8027dc950a90" />
+<img width="2786" height="1350" alt="image" src="https://github.com/user-attachments/assets/9db6eed4-19d1-419b-a778-f35ccba29568" />
 </p>
 <p>
-Description: Creating osTicket database.
+<img width="2644" height="1674" alt="image" src="https://github.com/user-attachments/assets/9ec7637d-ab03-4b27-8189-78ecf2297203" />
+</p>
+<p>
+Description: Logging into the Admin Panel as John and going over the ticket created by Karen.
+</p>
+<br />
+<img width="2702" height="1476" alt="image" src="https://github.com/user-attachments/assets/15f8bffa-d19f-41d1-bb7c-8ad392776acf" /> 
+</p>
+<p>
+Description: Updating SLA Plan to "Sev-B" based on impact.
+</p>
+<br />
+<img width="2692" height="1468" alt="image" src="https://github.com/user-attachments/assets/d524a382-f92e-43e0-b6e6-7f05f14e493e" />
+</p>
+<p>
+Description: Assigning ticket as John to John himself.
+</p>
+<br />
+<img width="2772" height="1662" alt="image" src="https://github.com/user-attachments/assets/f570088f-fa13-4b82-a8b1-3a097a9c4331" />
+</p>
+<p>
+<img width="2752" height="1558" alt="image" src="https://github.com/user-attachments/assets/63405645-4078-467a-865f-aa956fdd9309" />
+</p>
+<p>
+Description: Final Update and resolving the ticket.
 </p>
 <br />
 
+<h1>Final Result:</h1>
+<h2>A complete tciket lifecycle is established, ensuring efficient creation, management, and closure of support requests in alignment with defined SLAs and service workflows.</h2>
