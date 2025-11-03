@@ -165,4 +165,4 @@ Description: Final Update and resolving the ticket.
 <br />
 
 <h1>Final Result:</h1>
-<h2>A complete tciket lifecycle is established, ensuring efficient creation, management, and closure of support requests in alignment with defined SLAs and service workflows.</h2>
+<h2>A complete ticket lifecycle is established, ensuring efficient creation, management, and closure of support requests in alignment with defined SLAs and service workflows.</h2>
